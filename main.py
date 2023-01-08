@@ -3,7 +3,8 @@ print("hello")
 print()
 
 Test
-
+x = 1 + 2
+print(x)
 
 
 y = x * 3
